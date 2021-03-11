@@ -9,6 +9,7 @@ More information: https://www.terraform.io/
 Download from here: https://www.terraform.io/downloads.html
 
 c:\terraformlab> terraform version
+
 {
   "azure-cli": "2.12.1",
   "azure-cli-core": "2.12.1",
