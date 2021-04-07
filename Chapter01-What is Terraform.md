@@ -28,3 +28,7 @@ c:\terraformlab> az login
 c:\terraformlab> az cloud list -o table
 
 c:\terraformlab> az account list -o table
+
+# Provider: azurerm download
+
+From https://releases.hashicorp.com/
